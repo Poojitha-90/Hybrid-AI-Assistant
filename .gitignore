@@ -1,0 +1,23 @@
+# Environment variables (KEEP YOUR SECRETS SAFE)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database files (optional - if you want fresh DB on deploy)
+*.db
+*.db-journal
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit files
+.streamlit/

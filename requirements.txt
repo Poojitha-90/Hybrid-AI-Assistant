@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+sqlite3
+pandas
+PyPDF2
+python-docx
+Pillow
+streamlit-mic-recorder
